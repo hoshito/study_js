@@ -8,3 +8,6 @@ node_modules
 *.tmp
 *~
 *.log
+
+dist
+public/dist
